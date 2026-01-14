@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "マンシンランブ",
+  "base_artist": "XP!A",
+  "createdAt": "2026-01-14T01:15:44.672074Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "マンシンランブ",
+      "artist": "XP!A",
+      "has_synced": false,
+      "path": "select/pl_01_マンシンランブ_XP!A.txt"
+    }
+  ]
+}
